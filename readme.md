@@ -1,11 +1,11 @@
-#Osteria Aglio e Olio#
-##Restaurant Plan##
+# Osteria Aglio e Olio #
+## Restaurant Plan ##
 
 
-###Branded Cover###
+### Branded Cover ###
 
 
-###Concept###
+### Concept ###
 
 Wine bar, Italian tapas/small bites.
 Intimate casual setting with counter seating. Possible small tables. Service by chef.
@@ -13,10 +13,10 @@ Inspired by [Gottino](https://www.gottino.nyc/) in Greenwich Village, and [Le Vo
 Dishes include simple crostoni, pizze, paste, and insalati/antipasti.
 
 
-###Mood Board###
+### Mood Board ###
 
 
-###Possible Locations###
+### Possible Locations ###
 
 Lefferts Gardens
 Flatbush
@@ -32,13 +32,13 @@ West Side Jersey City
 High Foot Traffic, neighborhood vibe
 
 
-###Market Overview###
+### Market Overview ###
 
 
-###Target Market###
+### Target Market ###
 
 
-###Marketing & Publicity###
+### Marketing & Publicity ###
 
 Instagram
 Yotube
@@ -46,12 +46,12 @@ Website
 Mailers
 
 
-###Specialists & Consultants###
+### Specialists & Consultants ###
 
 
-###Management Team###
+### Management Team ###
 
 Kevin: Executive Chef, CEO & Owner
 
 
-###Financials###
+### Financials ###
