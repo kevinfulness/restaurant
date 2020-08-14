@@ -1,0 +1,60 @@
+Pizze
+    Pizza Dough
+        Mix Dough
+                req. Stand Mixer, Spatula, Measuring cups, measuring spoons
+            Ferment Dough
+                req. Dough Scraper, Food Scale, Refrigerator, Bins, Lids
+            Proof Dough
+                req. Proofing Bowls, Lids
+        Sauce
+            Prep onions, garlic
+                req. Chef's Knife, Prep Bins, cutting boards
+            Cook Sauce
+                req. Range, Pot, Stirring Spoon
+            Store sauce
+                req. Refrigerator, Storage Bins, Lids
+        Toppings
+            Slice Toppings
+                req. Chef's Knife, Mandolin, cutting boards
+            Marinate Shiitakes
+                req. Prep Bins
+        Store
+                req. Prep Bins, Lids, Refrigerator
+    Build Pizzas
+        Stretch and top pizza
+            req. Prep Counter, Wood Peel
+        bake pizza
+            req. Pizza Oven, Metal Peel
+        serve pizza
+            req. Pizza serving trays
+
+Crostoni
+    Bread Dough
+        Mix Dough
+            req. Stand Mixer, Spatula, Measuring cups, measuring spoons
+        Proof Dough
+            req. Dough Scraper, Food Scale, Refrigerator, Bins, Lids
+        Bake Bread
+            req. Oven, bread forms/trays
+        Cool Bread
+            req. Cooling Racks
+        Slice Bread
+            req. Bread Knife, cutting boards
+    Toppings
+        Mix Pesto, Cacik
+            req. Prep bowls, Mixing Spoons, Food processor, cutting boards
+        Slice Figs, Cucumbers
+            req. Mandolin, cutting board
+    Build Crostone
+        Toast Bread
+            req. Toaster/oven
+        Top Crostone
+            req. spoons, plating tweezers
+        Serve Crostone
+            req. Plates
+            
+Soups
+	Prep Ingredients
+
+Salads
+ 
