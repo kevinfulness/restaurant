@@ -1,5 +1,5 @@
 # Osteria Aglio e Olio #
-## Restaurant Plan ##
+Restaurant Plan
 
 
 ### Branded Cover ###
